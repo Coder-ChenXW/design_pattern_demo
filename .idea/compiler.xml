@@ -7,7 +7,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="singleton_design_pattern" />
+        <module name="builder_design_pattern" />
         <module name="factory_design_pattern" />
+        <module name="prototype_design_pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
