@@ -1,4 +1,4 @@
-package org.scgk.demo03;
+package org.scgk.demo3;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package org.scgk.demo04;
+package org.scgk.demo3;
 
 public class Client {
 
@@ -6,7 +6,6 @@ public class Client {
 
         Singleton instance = Singleton.getInstance();
         Singleton instance2 = Singleton.getInstance();
-
         System.out.println(instance==instance2);
 
     }

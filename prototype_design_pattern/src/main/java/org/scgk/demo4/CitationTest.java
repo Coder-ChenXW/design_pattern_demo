@@ -1,4 +1,4 @@
-package org.scgk.demo04;
+package org.scgk.demo4;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
