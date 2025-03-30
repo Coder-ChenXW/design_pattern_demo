@@ -8,9 +8,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="singleton_design_pattern" />
-        <module name="builder_design_pattern" />
         <module name="factory_design_pattern" />
+        <module name="combination_desgin_pattern" />
         <module name="prototype_design_pattern" />
+        <module name="decorator_design_pattern" />
+        <module name="facade_design_pattern" />
+        <module name="builder_design_pattern" />
+        <module name="adapter_design_pattern" />
+        <module name="flyweight_dessign_pattern" />
+        <module name="bridge_design_pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

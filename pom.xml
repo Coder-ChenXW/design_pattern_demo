@@ -13,6 +13,12 @@
         <module>builder_design_pattern</module>
         <module>prototype_design_pattern</module>
         <module>singleton_design_pattern</module>
+        <module>adapter_design_pattern</module>
+        <module>bridge_design_pattern</module>
+        <module>combination_desgin_pattern</module>
+        <module>decorator_design_pattern</module>
+        <module>facade_design_pattern</module>
+        <module>flyweight_dessign_pattern</module>
     </modules>
 
     <properties>
