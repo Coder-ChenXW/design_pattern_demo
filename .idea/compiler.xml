@@ -16,6 +16,7 @@
         <module name="builder_design_pattern" />
         <module name="adapter_design_pattern" />
         <module name="flyweight_dessign_pattern" />
+        <module name="proxy_desgin_pattern" />
         <module name="bridge_design_pattern" />
       </profile>
     </annotationProcessing>

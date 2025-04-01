@@ -19,6 +19,7 @@
         <module>decorator_design_pattern</module>
         <module>facade_design_pattern</module>
         <module>flyweight_dessign_pattern</module>
+        <module>proxy_desgin_pattern</module>
     </modules>
 
     <properties>
